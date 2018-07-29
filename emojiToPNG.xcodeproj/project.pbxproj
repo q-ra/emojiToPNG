@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		CC3FE43E210E167C00E2A13A /* unicode.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = unicode.txt; path = ../../../Desktop/unicode.txt; sourceTree = "<group>"; };
 		CC74666C210A5D6000960B3E /* emojiToPNG */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = emojiToPNG; sourceTree = BUILT_PRODUCTS_DIR; };
 		CC74666F210A5D6000960B3E /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -57,6 +58,7 @@
 		CC74666E210A5D6000960B3E /* emojiToPNG */ = {
 			isa = PBXGroup;
 			children = (
+				CC3FE43E210E167C00E2A13A /* unicode.txt */,
 				CC74666F210A5D6000960B3E /* main.swift */,
 			);
 			path = emojiToPNG;
